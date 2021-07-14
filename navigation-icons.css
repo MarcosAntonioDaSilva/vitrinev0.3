@@ -6,9 +6,9 @@
 
 .menu-navigation-icons a {
     display: inline-block;
-    color: #ffffff;
+    color: #0a0101;
     background-color: #232526;
-    font-size: 40px;
+    font-size: 12px;
     font-weight: bold;
     box-shadow: 1px 2px 1px 0 rgba(0, 0, 0, 0.1);
     text-transform: uppercase;
